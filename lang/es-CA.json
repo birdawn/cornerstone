@@ -1,0 +1,6 @@
+{
+    "header": {
+        "welcome_back": "Hola, {name}",
+        "sign_out": "Salir"
+    }
+}
